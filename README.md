@@ -1,3 +1,5 @@
+![CC Graphics 2024_AutomatingStata](https://github.com/csae-coders-corner/Automating-Stata-to-write-your-LaTeX-for-you/assets/148211163/220e440d-ef61-4588-bc80-51de0b4c3e3d)
+
 # Automating-Stata-to-write-your-LaTeX-for-you
 
 This post isn’t going to teach you how to make Stata write the words in your LaTeX file but it will show you how to automatically update tables, figures, and statistics. This is useful for a number of reasons. First, it streamlines changes and makes writing and updating much faster. Whenever you change a regression or update the sample, all you have to do is run the do-file again and everything will update in LaTeX as well. Second, it makes mistakes a lot less likely. The room for human error is decreased because there is no need for manual copy-pasting!
